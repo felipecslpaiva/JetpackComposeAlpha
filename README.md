@@ -12,6 +12,8 @@ You Need to have android canary to use since it's a requirement for the componen
 
 It's a show case how to use compose to build android ui using the newest Jetpack feature.
 
+![Sample Screen](https://i.ibb.co/b5zZR1R/Annotation-2020-07-02-135336.png)
+
 ## Authors
 
 * **Felipe Paiva** - *Initial work*
